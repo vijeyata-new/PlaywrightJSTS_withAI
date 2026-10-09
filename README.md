@@ -1,2 +1,3 @@
 # PlaywrightJSTS_withAI
-Learning and hands-on practicing Playwright using JSTS and AI
+
+A beginner-friendly collection of JavaScript fundamentals and Playwright exercises, with examples intended to be small and easy to run.
